@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">BoardGamePlanner</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="event">Événements</string>
+    <string name="profile">Profile</string>
+    <string name="create">Créer Événement</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_event">EventActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_profile">ProfileActivity</string>
 </resources>
